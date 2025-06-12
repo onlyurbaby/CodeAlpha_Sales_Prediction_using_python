@@ -5,4 +5,4 @@
 # Applications
 -Optimize advertising budgets for maximum ROI.
 -Understand the impact of different advertising channels. 
--Support decision-making for marketing campaigns.
+-Support decision-making for  marketing campaigns.
